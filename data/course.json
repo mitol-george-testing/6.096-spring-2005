@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9cfae9fe-39e4-63e9-6225-748a604c4da1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Algorithms for Computational Biology",
+  "course_description": "This course is offered to undergraduates and addresses several algorithmic challenges in computational biology. The principles of algorithmic design for biological datasets are studied and existing algorithms analyzed for application to real datasets. Topics covered include: biological sequence analysis, gene identification, regulatory motif discovery, genome assembly, genome duplication and rearrangements, evolutionary theory, clustering algorithms, and scale-free networks.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.096",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
